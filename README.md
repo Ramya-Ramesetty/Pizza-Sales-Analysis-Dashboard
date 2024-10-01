@@ -18,6 +18,8 @@ The **Pizza Sales Dashboard** is a comprehensive Power BI report that analyzes p
 
 The dashboard uses data from a pizza sales dataset, covering the period from **January 1, 2015**, to **December 31, 2015**. The dataset includes the following key attributes:
 
+![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/Dashboard-1.png)
+
 - **Order Date**: Date when the order was placed.
 - **Pizza Category**: Category of the pizza (e.g., Classic, Supreme, Chicken, Veggie).
 - **Pizza Size**: Size of the pizza (e.g., Small, Medium, Large, X-Large, XX-Large).
@@ -29,6 +31,7 @@ The dashboard uses data from a pizza sales dataset, covering the period from **J
 ## **KPIs and Insights**
 
 ### 1. **Main Dashboard Overview**
+![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/KPI-1.png)
    - **Total Revenue**: $817.86K
    - **Average Order Value**: $38.31
    - **Total Pizzas Sold**: 49,574
@@ -36,20 +39,33 @@ The dashboard uses data from a pizza sales dataset, covering the period from **J
    - **Average Pizzas per Order**: 2.32 pizzas
 
    **Daily and Monthly Trends**:
+  
    - Orders peak on **Fridays** and **Saturdays**, with Friday being the busiest day of the week.
+     
+     ![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/daily_trends_total_orders.png)
+     
    - On a monthly basis, **January** and **July** saw the highest number of total orders, with a peak in **July**.
 
+     ![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/monthly_trends_total_orders.png)
+     
    **Sales Performance by Category and Size**:
    - **Pizza Category**: Classic pizzas dominate the sales, contributing 26.91% to total revenue.
+     
    - **Pizza Size**: Large pizzas account for 45.89% of total sales, making them the most popular size.
 
    **Sales Distribution**:
    - **% of Sales by Pizza Category**:
+   - 
+       ![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/pizza_category.png)
+     
      - Classic: 26.91%
      - Supreme: 25.46%
      - Chicken: 23.68%
      - Veggie: 23.95%
    - **% of Sales by Pizza Size**:
+      
+       ![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/pizza_size.png)
+     
      - Large: 45.89%
      - Medium: 30.49%
      - Regular: 21.77%
@@ -57,8 +73,12 @@ The dashboard uses data from a pizza sales dataset, covering the period from **J
      - XX-Large: 0.12%
 
 ### 2. **Best and Worst Sellers Breakdown**
+
+![Pizza Sales Dashboard](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard/blob/main/pizza%20assets/Dashboard-2.png)
+
    - **Best Sellers**:
      - **Top 5 Pizzas by Revenue**:
+       
        1. **Thai Chicken Pizza**: $43.43K
        2. **Barbecue Pizza**: $42.77K
        3. **California Pizza**: $41.41K
