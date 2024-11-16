@@ -142,7 +142,7 @@ For pizzas that are underperforming, businesses may choose to revisit their pric
 3. **Analyze Sales Trends**: Use the line and bar charts to examine sales trends by day and month.
 4. **Identify Best and Worst Sellers**: Use the best/worst seller panels to identify the pizzas that are contributing most and least to revenue and sales volume.
 
----
+Live Dashboard [click here](https://app.powerbi.com/view?r=eyJrIjoiZTg1OWM2Y2EtYjcyZC00NDhmLTg1MTktOWViOTQxZGFlNzAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## **Future Enhancements**
 
